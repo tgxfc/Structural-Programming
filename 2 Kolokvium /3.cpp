@@ -18,9 +18,9 @@ int main() {
     }
 
     for(int i = 0; i < n; ++i){
-        if(array[i]%2!=0)
+        if(i%2!=0)
             array[i]*=2;
-        else if(array[i]%2==0)
+        else if(i%2==0)
             array[i]+=2;
     }
 
