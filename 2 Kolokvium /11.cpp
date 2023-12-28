@@ -1,9 +1,10 @@
-//Input primer
-//2
-//Finki nema zgrada, a jas imam jajce na oko
-//Level!
-//Output
-//Finki nema zgrada, a jas imam jajce na oko : 1
+//Input:
+// 2
+// Finki nema zgrada, a jas imam jajce na oko
+// Level!
+
+//Output:
+// Finki nema zgrada, a jas imam jajce na oko : 1
 // No palindromic words in this array : 0
 
 
